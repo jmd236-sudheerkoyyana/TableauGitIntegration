@@ -3961,6 +3961,7 @@
           <folder-item name='[Insight 2 Indicator (copy)]' type='field' />
         </folder>
         <folder name='Dashboard TOC'>
+        
           <folder-item name='[Dashboard]' type='field' />
         </folder>
       </_.fcp.SchemaViewerObjectModel.true...folders-common>
